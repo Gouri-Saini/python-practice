@@ -1,0 +1,1 @@
+[{"name": "dinner", "amount": 120, "category": "food"}, {"name": "breakfast", "amount": 100, "category": "food"}, {"name": "train", "amount": 500, "category": "transport"}]
